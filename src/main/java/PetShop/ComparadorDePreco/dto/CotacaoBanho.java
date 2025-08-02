@@ -1,5 +1,4 @@
-package PetShop.ComparadorDePreco.DTO;
-
+package PetShop.ComparadorDePreco.dto;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
@@ -14,9 +13,8 @@ public class CotacaoBanho {
     private LocalDate data;
 
     @Min(0)
-    private int CachorroPequeno;
+    private int cachorroPequeno;
 
     @Min(0)
-    private int CachorroGrande;
-
+    private int cachorroGrande;
 }
