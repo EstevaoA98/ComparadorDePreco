@@ -83,7 +83,6 @@ Antes de começar o projeto, planejei manualmente como seria a estrutura e o fun
 
 Decidi usar Java para este projeto justamente para aprender mais sobre a linguagem, além de utilizar o Spring Boot, que também estou a estudar a pouco tempo.
 
-## O que mais você deve saber
 - **Tecnologias utilizadas**:
   - **Spring Boot**: Framework principal para o backend.
   - **Maven**: Gerenciador de dependências e build.
@@ -92,6 +91,3 @@ Decidi usar Java para este projeto justamente para aprender mais sobre a linguag
   - **IDEA**: intellij.
 
   
-
-- **GitHub**: [https://github.com/EstevaoA98]
-- **Repositório**: (https://github.com/EstevaoA98/ComparadorDePreco)
