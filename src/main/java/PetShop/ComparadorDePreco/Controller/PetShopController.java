@@ -26,5 +26,4 @@ public class PetShopController {
         return ResponseEntity.ok(service.getAllPetShopsInfo());
     }
 
-
 }
