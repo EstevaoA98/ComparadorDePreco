@@ -57,7 +57,7 @@ O objetivo é fornecer uma solução eficiente para calcular os custos com base 
 ## Lista de premissas assumidas
 1. O sistema considera que todos os petshops têm preços fixos para dias da semana e finais de semana, preferir colocar os preços que tinham porcentagem ja com o valor calculado.
 2. A distância do petshop é fornecida em quilômetros e é usada apenas para exibição, não para cálculos, so é usada para criterio de desempate entre os petshops mais próximos, mas dentro do codigo.
-3. O foco do no meu projeto foi o **backend**, com o frontend sendo desenvolvido de forma simples utilizando recursos da web e IA.
+3. O foco do no meu projeto foi o **backend**.
 4. O sistema foi testado usando o **Insomnia** para garantir a funcionalidade dos endpoints.
 
 ---
@@ -65,7 +65,7 @@ O objetivo é fornecer uma solução eficiente para calcular os custos com base 
 ## Decisões de projeto
 1. **Foco no backend**:
    - O backend foi priorizado para garantir uma API robusta e funcional.
-   - O frontend foi simplificado usando o recurso do sprinf boot, thymeleaf, bootstrap e recursos da web, utilizando ferramentas simples para tornar a interação com o usuário mais rápida.
+   - O frontend foi simplificado usando o recurso do spring boot, thymeleaf e bootstrap para proporcionar uma melhor experiência para o usuário.
 
 2. **Sem uso de Lombok**:
    - O Lombok não foi utilizado para que a lógica do código fosse mais explícita e fácil de entender.
@@ -80,11 +80,11 @@ O objetivo é fornecer uma solução eficiente para calcular os custos com base 
 ---
 **Desafios**:
 
-Como estou aprendendo a linguagem e também o framework que estou utilizando, o principal desafio que encontrei foi desenvolver o front-end com o uso do Thymeleaf, ferramentas com as quais eu nunca havia trabalhado antes.
+Como estou aprendendo a linguagem e também o framework que estou utilizando, o principal desafio que encontrei foi desenvolver o front-end com o uso do Thymeleaf.
 
 Antes de começar o projeto, planejei manualmente como seria a estrutura e o funcionamento, mas durante o desenvolvimento precisei rever algumas decisões e aprofundar meus conhecimentos sobre o framework e as ferramentas que estava usando.
 
-Decidi usar Java para este projeto justamente para aprender mais sobre a linguagem, além de utilizar o Spring Boot, que também estou a estudar a pouco tempo.
+Decidi usar Java para este projeto justamente para aprender mais sobre a linguagem, além de utilizar o Spring Boot, que também estou a estudando.
 
 - **Tecnologias utilizadas**:
   - **Spring Boot**: Framework principal para o backend.
