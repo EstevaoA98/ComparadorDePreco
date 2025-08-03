@@ -27,4 +27,9 @@ public class CotacaoBanhoDTO {
     public int getCachorroGrande() {
         return cachorroGrande;
     }
+
+    public void setCachorroGrande(int cachorroGrande) {
+        this.cachorroGrande = cachorroGrande;
+    }
+
 }
