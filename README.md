@@ -1,4 +1,6 @@
 # Comparador de Preço - PetShop
+<img width="2880" height="1647" alt="image" src="https://github.com/user-attachments/assets/6678b3f2-7371-4bf4-ae0f-9c9021ab233e" />
+
 
 Este projeto é uma API para comparar preços de serviços de banho em diferentes petshops.
 O objetivo é fornecer uma solução eficiente para calcular os custos com base em diferentes fatores, como dia da semana, quantidade de animais e distância do petshop.
@@ -48,6 +50,7 @@ O objetivo é fornecer uma solução eficiente para calcular os custos com base 
   "cachorroGrande": 1
     }
    ```
+<img width="2868" height="1649" alt="image" src="https://github.com/user-attachments/assets/04ff8c8b-22e9-4453-97e3-bbeef7b94481" />
 
 ---
 
