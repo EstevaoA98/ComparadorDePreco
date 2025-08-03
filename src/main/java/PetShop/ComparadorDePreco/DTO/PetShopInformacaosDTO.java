@@ -1,13 +1,14 @@
 package PetShop.ComparadorDePreco.DTO;
 
 public class PetShopInformacaosDTO {
+    // Atributos
     private String nome;
     private double precoSemanaPequeno;
     private double precoSemanaGrande;
     private double precoFinalDeSemanaPequeno;
     private double precoFinalDeSemanaGrande;
     private double distancia;
-
+    // Construtor
     public PetShopInformacaosDTO(String nome, double precoSemanaPequeno, double precoSemanaGrande,
                                  double precoFinalDeSemanaPequeno, double precoFinalDeSemanaGrande, double distancia) {
         this.nome = nome;
@@ -17,7 +18,7 @@ public class PetShopInformacaosDTO {
         this.precoFinalDeSemanaGrande = precoFinalDeSemanaGrande;
         this.distancia = distancia;
     }
-
+    // Getters e Setters
     public String getNome() {
         return nome;
     }

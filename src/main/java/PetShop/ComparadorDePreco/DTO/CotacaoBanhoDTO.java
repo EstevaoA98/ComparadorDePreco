@@ -3,11 +3,12 @@ package PetShop.ComparadorDePreco.DTO;
 import java.time.LocalDate;
 
 public class CotacaoBanhoDTO {
-
+    // Atributos
     private LocalDate data;
     private int cachorroPequeno;
     private int cachorroGrande;
 
+    // Métodos Getters e Setters
     public LocalDate getData() {
         return data;
     }

@@ -1,17 +1,17 @@
 package PetShop.ComparadorDePreco.Model;
-
+//Classe PetShop
 public class PetShop {
     private String nome;
     private PrecoBanho precos;
     private double distancia;
 
-
+    //Construtor
     public PetShop(String nome, PrecoBanho precos, double distancia) {
         this.nome = nome;
         this.precos = precos;
         this.distancia = distancia;
     }
-
+    //Getters e Setters
     public String getNome() {
         return nome;
     }

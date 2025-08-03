@@ -1,18 +1,18 @@
 package PetShop.ComparadorDePreco.Model;
-
+//Classe
 public class PrecoBanho {
     private double precoSemanaPequeno;
     private double precoSemanaGrande;
     private double precoFinalDeSemanaPequeno;
     private double precoFinalDeSemanaGrande;
-
+    //Construtor
     public PrecoBanho(double precoSemanaPequeno, double precoSemanaGrande, double precoFinalDeSemanaPequeno, double precoFinalDeSemanaGrande) {
         this.precoSemanaPequeno = precoSemanaPequeno;
         this.precoSemanaGrande = precoSemanaGrande;
         this.precoFinalDeSemanaPequeno = precoFinalDeSemanaPequeno;
         this.precoFinalDeSemanaGrande = precoFinalDeSemanaGrande;
     }
-
+    //Getters e Setters
     public double getPrecoSemanaPequeno() {
         return precoSemanaPequeno;
     }
